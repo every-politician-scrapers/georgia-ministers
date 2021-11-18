@@ -18,7 +18,7 @@ class MemberList
     def position
       return text_nodes.take(2).join(' ') if noko.text.include? 'Displaced'
 
-      minister_node.text.tidy
+      minister_node.text.tidy.split(/, (?=Minister)/)
     end
 
     private
