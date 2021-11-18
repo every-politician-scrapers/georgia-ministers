@@ -1,1 +1,9 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q104904062,Tea Akhvlediani,Tea Akhvlediani,,,,,,Q108379621,Minister for Reconciliation and Civic Equality,Q104904062-68037114-0025-43E2-A6B1-79B6D5E55571
+Q106094877,Juansher Burchuladze,Juansher Burchuladze,male,1978-01-01,9,,,Q108378098,Minister of Defence,Q106094877-43DAF736-2F5A-4BAF-B444-07547F2E8349
+Q106522864,Irakli Karseladze,Irakli Karseladze,male,1978-02-28,11,,,Q108377572,Minister of Regional Development and Infrastructure,Q106522864-98C213D6-5204-4ECD-9141-22BB68CE083C
+Q31354638,Levan Davitashvili,Levan Davitashvili,male,1978-12-10,11,,,Q108377218,Minister of the Environment,Q31354638-74599E50-842F-46E8-A6E6-E3972EE898C8
+Q56152039,David Zakaliani,David Zakaliani,male,1968-02-27,11,,,Q108368702,Minister of Foreign Affairs of Georgia,Q56152039-27e4ea5c-1a60-4211-8f03-169ba6788be8
+Q63247681,Natela Turnava,Natela Turnava,female,1968-10-19,11,,,Q108370218,Minister of Economy and Sustainable Development,Q63247681-7A5B2B48-17FE-4834-A1C0-1FE95C022026
+Q65285987,Mikheil Chkhenkeli,Mikheil Chkhenkeli,,,,,,Q108376607,Minister of Education and Science,Q65285987-2CB9BF23-51BF-4685-83C2-AD2DE0D9E8F7
+Q89066171,Ekatrine Tikradze,Ekatrine Tikradze,female,1976-03-03,11,,,Q108376722,Minister of Health of Georgia,Q89066171-98C02EC1-573A-4C66-B0BB-A7762FBA905F
