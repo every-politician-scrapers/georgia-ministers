@@ -1,0 +1,7 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q5015500,Cabinet of Bidzina Ivanishvili,2012-10-25,11,,,2013-11-20,11,,,Q2613132,Government of Georgia,,,,,Q16954765,Cabinet of Irakli Garibashvili,,,Q16954765,Cabinet of Irakli Garibashvili
+,Q16954765,Cabinet of Irakli Garibashvili,2013-11-20,11,,,2015-12-30,11,,,Q2613132,Government of Georgia,,,Q5015500,Cabinet of Bidzina Ivanishvili,Q22079664,Cabinet of Giorgi Kvirikashvili,Q5015500,Cabinet of Bidzina Ivanishvili,Q22079664,Cabinet of Giorgi Kvirikashvili
+,Q22079664,Cabinet of Giorgi Kvirikashvili,2015-12-30,11,,,2016-11-05,11,,,Q2613132,Government of Georgia,,,Q16954765,Cabinet of Irakli Garibashvili,Q28448999,Second Cabinet of Giorgi Kvirikashvili,Q16954765,Cabinet of Irakli Garibashvili,,
+,Q28448999,Second Cabinet of Giorgi Kvirikashvili,2016-11-26,11,,,2018-06-13,11,,,Q2613132,Government of Georgia,,,Q22079664,Cabinet of Giorgi Kvirikashvili,Q56064379,Cabinet of Mamuka Bakhtadze,,,,
+,Q56064379,Cabinet of Mamuka Bakhtadze,2018-06-20,11,,,2019-09-02,11,,,Q2613132,Government of Georgia,,,Q28448999,Second Cabinet of Giorgi Kvirikashvili,Q107618999,First Gakharia government,,,,
+,Q109373930,Second Gakharia government,2020-12-24,11,,,,,,,Q2613132,Government of Georgia,,,Q107618999,First Gakharia government,,,,,,
