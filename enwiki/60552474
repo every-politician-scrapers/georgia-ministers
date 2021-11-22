@@ -1,0 +1,230 @@
+{
+  "title": "Natela Turnava",
+  "pageID": 60552474,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "Government ministers of Georgia (country)",
+    "Women government ministers of Georgia (country)",
+    "21st-century women politicians",
+    "Tbilisi State University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Natela Turnava (ნათელა თურნავა) (born 19 October 1968) is a Georgian politician.",
+              "formatting": {
+                "bold": [
+                  "Natela Turnava"
+                ]
+              }
+            },
+            {
+              "text": "She is minister of Economy and Sustainable Development of Georgia since 18 April 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Georgian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Natela (Natia) Turnava"
+          },
+          "image": {
+            "text": "Natela Turnava - 2019 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Natela Turnava"
+          },
+          "imagesize": {
+            "text": "250px"
+          },
+          "order": {
+            "text": "Minister of Economy and Sustainable Development",
+            "links": [
+              {
+                "text": "Minister of Economy and Sustainable Development",
+                "type": "internal",
+                "page": "Ministry of Economy and Sustainable Development (Georgia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 April 2019"
+          },
+          "primeminister": {
+            "text": "Mamuka Bakhtadze Giorgi Gakharia Irakli Garibashvili",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mamuka Bakhtadze"
+              },
+              {
+                "type": "internal",
+                "page": "Giorgi Gakharia"
+              },
+              {
+                "type": "internal",
+                "page": "Irakli Garibashvili"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Giorgi Kobulia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giorgi Kobulia"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "19 October 1968"
+          },
+          "birth_place": {
+            "text": "Moscow, Russian SSR, USSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moscow"
+              },
+              {
+                "type": "internal",
+                "page": "Russian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "USSR"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tbilisi State University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tbilisi State University"
+              }
+            ]
+          },
+          "website": {
+            "text": "Government of Georgia",
+            "links": [
+              {
+                "text": "Government of Georgia",
+                "type": "external",
+                "site": "http://www.government.gov.ge/eng/"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Turnava was born in 1968 in Moscow in the capital of Russian SSR.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moscow"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russian SSR"
+                }
+              ]
+            },
+            {
+              "text": "She studied in No.56 Public School of Tbilisi and in 1990 she graduated from Tbilisi State University as an economist.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tbilisi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tbilisi State University"
+                }
+              ]
+            },
+            {
+              "text": "In 1994–1996 she was a scientist at the Institute of Democracy and Politic of Georgia."
+            },
+            {
+              "text": "From 2000 to 2005 she was the first assistant of Minister of Economy and Sustainable Development of Georgia."
+            },
+            {
+              "text": "In 2005–2013 she was the first assistant of Minister of Economy and Sustainable Development of Georgia."
+            },
+            {
+              "text": "In 2018–2019 she was the first assistant of Minister of Economy and Sustainable Development of Georgia."
+            },
+            {
+              "text": "She knows English, Georgian and Russian languages."
+            },
+            {
+              "text": "She was assistant of Minister of Economy and Sustainable Development of Georgia on 3 occasions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "georgia-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official web-page of Government of Georgia",
+            "links": [
+              {
+                "text": "Official web-page of Government of Georgia",
+                "type": "external",
+                "site": "http://gov.ge/index.php?lang_id=ENG&sec_id=27&info_id=111"
+              }
+            ]
+          },
+          {
+            "text": "Georgian Biographical Dictionary",
+            "links": [
+              {
+                "text": "Georgian Biographical Dictionary",
+                "type": "external",
+                "site": "http://www.nplg.gov.ge/bios/en/00013077"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

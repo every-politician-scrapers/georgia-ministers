@@ -1,0 +1,215 @@
+{
+  "title": "Grigol Liluashvili",
+  "pageID": 68043777,
+  "categories": [
+    "21st-century politicians from Georgia (country)",
+    "Civil servants",
+    "1977 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Grigol Liluashvili (გრიგოლ ლილუაშვილი, born 1 September 1977) is a Georgian politician and civil servant, who is currently serving as the Chief of the State Security Service.",
+              "links": [
+                {
+                  "text": "Georgian",
+                  "type": "internal",
+                  "page": "Georgia (country)"
+                },
+                {
+                  "text": "State Security Service",
+                  "type": "internal",
+                  "page": "State Security Service of Georgia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Grigol Liluashvili"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2021",
+          "template": "blp sources"
+        },
+        {
+          "df": "yes",
+          "year": "1977",
+          "month": "09",
+          "day": "01",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Grigol Liluashvili"
+          },
+          "office": {
+            "text": "Chief of the State Security Service of Georgia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "State Security Service of Georgia"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Giorgi Gakharia Irakli Garibashvili",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giorgi Gakharia"
+              },
+              {
+                "type": "internal",
+                "page": "Irakli Garibashvili"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 October 2019"
+          },
+          "predecessor": {
+            "text": "Vakhtang Gomelauri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vakhtang Gomelauri"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Parliament of Georgia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliament of Georgia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "18 November 2016"
+          },
+          "term_end1": {
+            "text": "22 December 2017"
+          },
+          "party": {
+            "text": "Georgian Dream",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Georgian Dream"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 1, 1977"
+          },
+          "birth_place": {
+            "text": "Tbilisi, Georgian SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tbilisi"
+              },
+              {
+                "type": "internal",
+                "page": "Georgian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Technical University of Georgia",
+            "links": [
+              {
+                "text": "Technical University of Georgia",
+                "type": "internal",
+                "page": "Georgian Technical University"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Liluashvili entered politics from the business sector as an associate of former Prime Minister and billionaire businessman Bidzina Ivanishvili.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bidzina Ivanishvili"
+                }
+              ]
+            },
+            {
+              "text": "In 2016 he was elected a member of parliament from the Georgian Dream party, however he was quickly transferred to a senior position in the State Security Service.",
+              "links": [
+                {
+                  "text": "Georgian Dream party",
+                  "type": "internal",
+                  "page": "Georgian Dream"
+                }
+              ]
+            },
+            {
+              "text": "After the appointment of Vakhtang Gomelauri as the Minister of Internal Affairs, Liluashvili was named the Head of the Security Service.",
+              "links": [
+                {
+                  "text": "Minister of Internal Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Internal Affairs of Georgia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Reginfo.ge",
+          "title": "სუს-ის უფროსის მოადგილედ გრიგოლ ლილუაშვილი დაინიშნა",
+          "url": "https://reginfo.ge/politics/item/4216-sus-is-uprosis-moadgiled-grigol-liluashvili-dainishna",
+          "access-date": "2021-06-25",
+          "website": "reginfo.ge",
+          "language": "ka-ge",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-10-07",
+          "title": "სუს-ის უფროსის პოსტზე მთავრობამ გრიგოლ ლილუაშვილი წარადგინა",
+          "url": "https://civil.ge/ka/archives/322762",
+          "access-date": "2021-06-25",
+          "website": "Civil.ge",
+          "language": "ka-GE",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0
+    }
+  ]
+}
