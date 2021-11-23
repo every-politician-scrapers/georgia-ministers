@@ -487,10 +487,10 @@
               ]
             },
             {
-              "text": "Her father, Levan (1906–1975), was an engineer and served as a chairman of the Georgian Diaspora in Paris."
+              "text": "Her father, Levan (1906–1975), was an engineer and served as a chairman of the Georgian diaspora in Paris."
             },
             {
-              "text": "He was the grandson of Niko Nikoladze, a prominent Georgian social democrat from the late nineteenth century, scion of the noble Nikoladze family and a member of meore dasi, a collection of Georgian liberal intelligentsia.",
+              "text": "His grandfather was Niko Nikoladze, a prominent Georgian social democrat, a scion of the noble Nikoladze family and a member of Meore Dasi, a collection of Georgian liberal intelligentsia.",
               "links": [
                 {
                   "type": "internal",
@@ -499,7 +499,7 @@
                 {
                   "text": "social democrat",
                   "type": "internal",
-                  "page": "social democrat"
+                  "page": "Social Democratic Party of Georgia"
                 },
                 {
                   "text": "Nikoladze family",
@@ -507,7 +507,7 @@
                   "page": "Nikoladze"
                 },
                 {
-                  "text": "meore dasi",
+                  "text": "Meore Dasi",
                   "type": "internal",
                   "page": "meore dasi"
                 },
@@ -535,12 +535,16 @@
               "text": "Zourabichvili has one brother, Otar."
             },
             {
-              "text": "She attended some of the most prestigious French schools, such as Institut d'Études Politiques de Paris (Sciences Po), and began a master's program at Columbia University in New York in the academic year of 1972–1973, taking courses with Zbigniew Brzezinski.",
+              "text": "She studied at the Institut d'Études Politiques de Paris (Sciences Po), and began a master's program at Columbia University in New York in the academic year of 1972–1973, taking courses with Zbigniew Brzezinski.",
               "links": [
                 {
                   "text": "Institut d'Études Politiques de Paris",
                   "type": "internal",
                   "page": "Paris Institute of Political Studies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sciences Po"
                 },
                 {
                   "type": "internal",
