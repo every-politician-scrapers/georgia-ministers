@@ -234,15 +234,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "georgia-politician-stub"
-        }
-      ]
     }
   ]
 }
