@@ -33,7 +33,7 @@
               "text": "Member of Parliament of Georgia since 2016."
             },
             {
-              "text": "Speaker of Parliament of Georgia since 27 April 2021."
+              "text": "Speaker of Parliament of Georgia from 27 April 2021 to 24 December 2021."
             }
           ]
         }
@@ -101,6 +101,9 @@
           },
           "term_start": {
             "text": "27 April 2021"
+          },
+          "term_end": {
+            "text": "24 December 2021"
           },
           "predecessor": {
             "text": "Archil Talakvadze",
