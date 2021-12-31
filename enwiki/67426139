@@ -1,0 +1,61 @@
+{
+  "title": "Shalva Papuashvili",
+  "pageID": 67426139,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "Members of the Parliament of Georgia",
+    "21st-century politicians from Georgia (country)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shalva Papuashvili (შალვა პაპუაშვილი; born 26 January 1976) is a Georgian politician.",
+              "links": [
+                {
+                  "text": "Georgian",
+                  "type": "internal",
+                  "page": "Georgians"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Shalva Papuashvili"
+                ]
+              }
+            },
+            {
+              "text": "Member of Parliament of Georgia since 2020."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2021",
+          "template": "more citations needed"
+        },
+        {
+          "description": "Georgian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://cesko.ge/geo/list/show/123458-tsentralurma-saarchevno-komisiam-saqartvelos-parlamentis-2020-tslis-31-oqtombris-archevnebi-sheadjama",
+          "title": "ცენტრალურმა საარჩევნო კომისიამ საქართველოს პარლამენტის 2020 წლის 31 ოქტომბრის არჩევნები შეაჯამა",
+          "publisher": "ცესკო",
+          "date": "2020-12-03",
+          "accessdate": "18 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
