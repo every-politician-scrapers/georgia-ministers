@@ -31,15 +31,14 @@
             },
             {
               "text": "Member of Parliament of Georgia since 2020."
+            },
+            {
+              "text": "He is Speaker of Parliament since 29 December 2021."
             }
           ]
         }
       ],
       "templates": [
-        {
-          "date": "March 2021",
-          "template": "more citations needed"
-        },
         {
           "description": "Georgian politician",
           "template": "short description"
@@ -52,6 +51,15 @@
           "publisher": "ცესკო",
           "date": "2020-12-03",
           "accessdate": "18 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://civil.ge/archives/464965",
+          "title": "Papuashvili Elected as New Parliament Speaker",
+          "publisher": "Civil Georgia",
+          "date": "2021-12-29",
+          "accessdate": "31 December 2021",
           "template": "citation",
           "type": "web"
         }
