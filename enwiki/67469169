@@ -46,26 +46,6 @@
           "description": "Georgian politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "title": "Minister",
-          "url": "https://www.mof.ge/en/minister_of_finance_of_georgia",
-          "access-date": "2021-04-22",
-          "website": "www.mof.ge",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-04-01",
-          "title": "PM Appoints New Finance, Justice Ministers",
-          "url": "https://civil.ge/archives/409897",
-          "access-date": "2021-04-22",
-          "website": "Civil.ge",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
