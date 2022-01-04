@@ -14,8 +14,8 @@ jobs:
       run: sudo apt-get install jq moreutils
     - name: Mirror official site
       run: |-
-        curl -L -c /tmp/cookies -o html/official.html -A eps/1.2 $(jq -r .source.url meta.json)
-        curl -L -c /tmp/cookies -o html/official2.html -A eps/1.2 $(jq -r .source.continued meta.json)
+        curl -L -c /tmp/cookies -o html/official.html --insecure -A eps/1.2 $(jq -r .source.url meta.json)
+        curl -L -c /tmp/cookies -o html/official2.html --insecure -A eps/1.2 $(jq -r .source.continued meta.json)
     - name: Commit and push if changed
       run: |-
         git config user.name "Automated"
