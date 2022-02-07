@@ -43,6 +43,81 @@
         {
           "description": "Georgian politician",
           "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1976",
+          "month": "1",
+          "day": "26",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shalva Papuashvili"
+          },
+          "order": {
+            "text": "Speaker of the Parliament",
+            "links": [
+              {
+                "text": "Speaker of the Parliament",
+                "type": "internal",
+                "page": "Speaker of the Parliament of Georgia"
+              }
+            ]
+          },
+          "president": {
+            "text": "Salome Zourabichvili",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salome Zourabichvili"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Irakli Garibashvili",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irakli Garibashvili"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 December 2021"
+          },
+          "term_end": {
+            "text": "present"
+          },
+          "predecessor": {
+            "text": "Kakha Kuchava",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kakha Kuchava"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 26, 1976"
+          },
+          "nationality": {
+            "text": "Georgian"
+          },
+          "party": {
+            "text": "Georgian Dream",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Georgian Dream"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Papuashvili signature (vect).svg"
+          }
         }
       ]
     }
