@@ -5,4 +5,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q28448999,Second Cabinet of Giorgi Kvirikashvili,2016-11-26,11,,,2018-06-13,11,,,Q22079664,Cabinet of Giorgi Kvirikashvili,Q56064379,Cabinet of Mamuka Bakhtadze,,,,
 ,Q56064379,Cabinet of Mamuka Bakhtadze,2018-06-20,11,,,2019-09-02,11,,,Q28448999,Second Cabinet of Giorgi Kvirikashvili,Q107618999,First Gakharia government,,,,
 ,Q107618999,First Gakharia government,2019-09-08,11,,,2020-12-11,11,,,Q56064379,Cabinet of Mamuka Bakhtadze,Q109373930,Second Gakharia government,,,,
-,Q109373930,Second Gakharia government,2020-12-24,11,,,,,,,Q107618999,First Gakharia government,,,,,,
+,Q109373930,Second Gakharia government,2020-12-24,11,,,2021-02-18,11,,,Q107618999,First Gakharia government,Q110612600,Second Garibashvili government,,,,
+,Q110612600,Second Garibashvili government,2021-02-22,11,,,,,,,Q109373930,Second Gakharia government,,,,,,
