@@ -787,8 +787,9 @@
             "text": "Footballer (retired)\nPolitician",
             "links": [
               {
+                "text": "Footballer",
                 "type": "internal",
-                "page": "Footballer"
+                "page": "Association football"
               },
               {
                 "type": "internal",
