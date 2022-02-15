@@ -1,11 +1,7 @@
 @@,itemlabel,item,startdate,enddate
 +++,Tamaz Vashadze,,1991-10-02,1992-01-06
 ->,Otar Litanishvili,Q97464195->NULL,1992-01-06,1993-01-21
-+++,Konstantine Gabashvili,Q6322997,1993-01-21,1993-10-16
-+++,Nikoloz Lekishvili,Q3506301,1993-10-16,1995-12-08
-+++,Badri Shoshitaishvili,Q24008058,1995-12-08,1998-08-08
 ->,Vano Zodelava->Ivane (Vano) Zodelava,Q24008059,1998-08-10,2004-04-19
-+++,Zurab Tchiaberashvili,Q324649,2004-04-19,2005-07-12
 ->,Giorgi Ugulava->Giorgi (Gigi) Ugulava,Q969642,2005-07-12,2013-12-22
-+++,Sevdia Ugrekhelidze,,2013-12-22,2014-08-02
-+++,David Narmania,Q17481730,2014-08-02,2017-11-13
+->,Sevdia Ugrekhelidze,Q24008070->NULL,2013-12-22,2014-08-02
+->,Davit Narmania->David Narmania,Q17481730,2014-08-02,2017-11-13
