@@ -1,401 +1,51 @@
 {
-  "title": "David Zalkaliani",
-  "pageID": 58178310,
-  "categories": [
-    "Foreign Ministers of Georgia",
-    "1968 births",
-    "Living people",
-    "21st-century politicians from Georgia (country)",
-    "Diplomats from Tbilisi",
-    "Tbilisi State University alumni",
-    "Ambassadors of Georgia (country) to Uzbekistan",
-    "Ambassadors of Georgia (country) to Tajikistan",
-    "Ambassadors of Georgia (country) to Belarus"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "David Zalkaliani (დავით ზალკალიანი; born 27 February 1968) is a Georgian career diplomat serving as the Minister of Foreign Affairs of Georgia since 21 June 2018.",
-              "links": [
-                {
-                  "text": "Georgian",
-                  "type": "internal",
-                  "page": "Georgia (country)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Foreign Affairs of Georgia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "David Zalkaliani"
-                ]
-              }
-            },
-            {
-              "text": "On January 21, 2021, he was appointed as Deputy Prime Minister of Georgia."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Georgian diplomat; Minister of Foreign Affairs of Georgia",
-          "template": "short description"
-        },
-        {
-          "year": "1968",
-          "month": "2",
-          "day": "27",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "David Zalkaliani"
-          },
-          "native_name": {
-            "text": "დავით ზალკალიანი"
-          },
-          "native_name_lang": {
-            "text": "ka",
-            "formatting": {
-              "italic": [
-                "ka"
-              ]
-            }
-          },
-          "image": {
-            "text": "David Zalkaliani დავით ზალკალიანი.jpg"
-          },
-          "office": {
-            "text": "Deputy Prime Minister of Georgia",
-            "links": [
-              {
-                "text": "Deputy Prime Minister of Georgia",
-                "type": "internal",
-                "page": "Prime Minister of Georgia"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Giorgi Gakharia Irakli Garibashvili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giorgi Gakharia"
-              },
-              {
-                "type": "internal",
-                "page": "Irakli Garibashvili"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "21 January 2021"
-          },
-          "office1": {
-            "text": "15th Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs of Georgia"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Mamuka Bakhtadze Giorgi Gakharia Irakli Garibashvili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamuka Bakhtadze"
-              },
-              {
-                "type": "internal",
-                "page": "Giorgi Gakharia"
-              },
-              {
-                "type": "internal",
-                "page": "Irakli Garibashvili"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "21 June 2018"
-          },
-          "predecessor1": {
-            "text": "Mikheil Janelidze",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mikheil Janelidze"
-              }
-            ]
-          },
-          "office2": {
-            "text": "President of the Committee of Ministers of the Council of Europe",
-            "links": [
-              {
-                "text": "President of the Committee of Ministers of the Council of Europe",
-                "type": "internal",
-                "page": "Committee of Ministers of the Council of Europe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 November 2019"
-          },
-          "term_end2": {
-            "text": "15 May 2020"
-          },
-          "predecessor2": {
-            "text": "Jean-Yves Le Drian",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Yves Le Drian"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Nikos Dendias",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nikos Dendias"
-              }
-            ]
-          },
-          "office3": {
-            "text": "First Deputy Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs of Georgia"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "8 January 2016"
-          },
-          "term_end3": {
-            "text": "21 June 2018"
-          },
-          "primeminister3": {
-            "text": "Giorgi Kvirikashvili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giorgi Kvirikashvili"
-              }
-            ]
-          },
-          "minister3": {
-            "text": "Mikheil Janelidze",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mikheil Janelidze"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "29 October 2012"
-          },
-          "term_end4": {
-            "text": "5 November 2014"
-          },
-          "primeminister4": {
-            "text": "Bidzina Ivanishvili Irakli Garibashvili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bidzina Ivanishvili"
-              },
-              {
-                "type": "internal",
-                "page": "Irakli Garibashvili"
-              }
-            ]
-          },
-          "minister4": {
-            "text": "Maia Panjikidze",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maia Panjikidze"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Executive Director of the Levan Mikeladze Foundation"
-          },
-          "term_start5": {
-            "text": "2015",
-            "number": 2015
-          },
-          "term_end5": {
-            "text": "7 January 2016"
-          },
-          "office6": {
-            "text": "Ambassador of Georgia to the Republic of Belarus",
-            "links": [
-              {
-                "text": "Georgia",
-                "type": "internal",
-                "page": "Georgia (country)"
-              },
-              {
-                "text": "Republic of Belarus",
-                "type": "internal",
-                "page": "Belarus"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "January 2008"
-          },
-          "term_end6": {
-            "text": "September 2009"
-          },
-          "office7": {
-            "text": "Director of the Department of Global Relations of the Ministry of Foreign Affairs of Georgia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs of Georgia"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "January 2007"
-          },
-          "term_end7": {
-            "text": "December 2007"
-          },
-          "office8": {
-            "text": "Ambassador of Georgia to the Republics of Uzbekistan and Tajikistan",
-            "links": [
-              {
-                "text": "Georgia",
-                "type": "internal",
-                "page": "Georgia (country)"
-              },
-              {
-                "type": "internal",
-                "page": "Uzbekistan"
-              },
-              {
-                "type": "internal",
-                "page": "Tajikistan"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end8": {
-            "text": "2007",
-            "number": 2007
-          },
-          "office9": {
-            "text": "Senior Counsellor at the Embassy of Georgia to the United States, Mexico and Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States"
-              },
-              {
-                "type": "internal",
-                "page": "Mexico"
-              },
-              {
-                "type": "internal",
-                "page": "Canada"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end9": {
-            "text": "2004",
-            "number": 2004
-          },
-          "office10": {
-            "text": "Deputy Permanent Representative of Georgia to OSCE and International Organizations in Vienna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "OSCE"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "March 2002"
-          },
-          "term_end10": {
-            "text": "September 2002"
-          },
-          "birth_date": {
-            "text": "February 27, 1968"
-          },
-          "birth_place": {
-            "text": "Tbilisi, Georgian Soviet Socialist Republic, USSR",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tbilisi"
-              },
-              {
-                "type": "internal",
-                "page": "Georgian Soviet Socialist Republic"
-              },
-              {
-                "type": "internal",
-                "page": "USSR"
-              }
-            ]
-          },
-          "party": {
-            "text": "Georgian Dream",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Georgian Dream"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "Tbilisi State University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tbilisi State University"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Zalkaliani signature.svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "David Zalkaliani",
+  "native_name": "დავით ზალკალიანი",
+  "native_name_lang": "ka",
+  "image": "David Zalkaliani დავით ზალკალიანი.jpg",
+  "office": "Deputy Prime Minister of Georgia",
+  "primeminister": "Giorgi Gakharia Irakli Garibashvili",
+  "term_start": "21 January 2021",
+  "office1": "15th Minister of Foreign Affairs",
+  "primeminister1": "Mamuka Bakhtadze Giorgi Gakharia Irakli Garibashvili",
+  "term_start1": "21 June 2018",
+  "predecessor1": "Mikheil Janelidze",
+  "office2": "President of the Committee of Ministers of the Council of Europe",
+  "term_start2": "27 November 2019",
+  "term_end2": "15 May 2020",
+  "predecessor2": "Jean-Yves Le Drian",
+  "successor2": "Nikos Dendias",
+  "office3": "First Deputy Minister of Foreign Affairs",
+  "term_start3": "8 January 2016",
+  "term_end3": "21 June 2018",
+  "primeminister3": "Giorgi Kvirikashvili",
+  "minister3": "Mikheil Janelidze",
+  "term_start4": "29 October 2012",
+  "term_end4": "5 November 2014",
+  "primeminister4": "Bidzina Ivanishvili Irakli Garibashvili",
+  "minister4": "Maia Panjikidze",
+  "office5": "Executive Director of the Levan Mikeladze Foundation",
+  "term_start5": "2015",
+  "term_end5": "7 January 2016",
+  "office6": "Ambassador of Georgia to the Republic of Belarus",
+  "term_start6": "January 2008",
+  "term_end6": "September 2009",
+  "office7": "Director of the Department of Global Relations of the Ministry of Foreign Affairs of Georgia",
+  "term_start7": "January 2007",
+  "term_end7": "December 2007",
+  "office8": "Ambassador of Georgia to the Republics of Uzbekistan and Tajikistan",
+  "term_start8": "2004",
+  "term_end8": "2007",
+  "office9": "Senior Counsellor at the Embassy of Georgia to the United States, Mexico and Canada",
+  "term_start9": "2002",
+  "term_end9": "2004",
+  "office10": "Deputy Permanent Representative of Georgia to OSCE and International Organizations in Vienna",
+  "term_start10": "March 2002",
+  "term_end10": "September 2002",
+  "birth_date": "February 27, 1968",
+  "birth_place": "Tbilisi, Georgian Soviet Socialist Republic, USSR",
+  "party": "Georgian Dream",
+  "children": "2",
+  "alma_mater": "Tbilisi State University",
+  "signature": "Zalkaliani signature.svg"
 }

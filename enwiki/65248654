@@ -1,219 +1,24 @@
 {
-  "title": "Vakhtang Gomelauri",
-  "pageID": 65248654,
-  "categories": [
-    "Living people",
-    "1974 births",
-    "21st-century politicians from Georgia (country)",
-    "Government ministers of Georgia (country)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Vakhtang Gomelauri (ვახტანგ გომელაური, born 24 December 1974) is a Georgian politician, who is the Incumbent Minister of Internal Affairs of Georgia and former chief of the State Security Service of Georgia from 25 July 2015 to 9 September 2019.",
-              "links": [
-                {
-                  "text": "Georgian",
-                  "type": "internal",
-                  "page": "Georgia (country)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Internal Affairs of Georgia"
-                },
-                {
-                  "type": "internal",
-                  "page": "State Security Service of Georgia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Vakhtang Gomelauri"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Georgian politician; Minister of Internal Affairs of Georgia",
-          "template": "short description"
-        },
-        {
-          "df": "yes",
-          "year": "1974",
-          "month": "12",
-          "day": "24",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Vakhtang Gomelauri"
-          },
-          "office": {
-            "text": "Minister of Internal Affairs of Georgia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Internal Affairs of Georgia"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Irakli Garibashvili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Irakli Garibashvili"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "January 26, 2015"
-          },
-          "term_end1": {
-            "text": "August 3, 2015"
-          },
-          "primeminister": {
-            "text": "Giorgi Gakharia Irakli Garibashvili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giorgi Gakharia"
-              },
-              {
-                "type": "internal",
-                "page": "Irakli Garibashvili"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "September 8, 2019"
-          },
-          "native_name": {
-            "text": "ვახტანგ გომელაური"
-          },
-          "native_name_lang": {
-            "text": "ka"
-          },
-          "image": {
-            "text": "File:Mr. Vakhtang Gomelauri, the Head of State Security Service of Georgia.png"
-          },
-          "predecessor": {
-            "text": "Giorgi Gakharia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giorgi Gakharia"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Alexsandre Chikaidze",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alexsandre Chikaidze"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Giorgi Mghebrishvili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giorgi Mghebrishvili"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chief of the State Security Service of Georgia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "State Security Service of Georgia"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Irakli Garibashvili Giorgi Kvirikashvili Mamuka Bakhtadze",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Irakli Garibashvili"
-              },
-              {
-                "type": "internal",
-                "page": "Giorgi Kvirikashvili"
-              },
-              {
-                "type": "internal",
-                "page": "Mamuka Bakhtadze"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "position reestablished",
-            "formatting": {
-              "italic": [
-                "position reestablished"
-              ]
-            }
-          },
-          "successor2": {
-            "text": "Grigol Liluashvili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grigol Liluashvili"
-              }
-            ]
-          },
-          "party": {
-            "text": "Georgian Dream",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Georgian Dream"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "December 24, 1974"
-          },
-          "birth_place": {
-            "text": "Tbilisi, Georgian SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tbilisi"
-              },
-              {
-                "type": "internal",
-                "page": "Georgian SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "July 25, 2015"
-          },
-          "term_end2": {
-            "text": "September 8, 2019"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Vakhtang Gomelauri",
+  "office": "Minister of Internal Affairs of Georgia",
+  "primeminister1": "Irakli Garibashvili",
+  "term_start1": "January 26, 2015",
+  "term_end1": "August 3, 2015",
+  "primeminister": "Giorgi Gakharia Irakli Garibashvili",
+  "term_start": "September 8, 2019",
+  "native_name": "ვახტანგ გომელაური",
+  "native_name_lang": "ka",
+  "image": "File:Mr. Vakhtang Gomelauri, the Head of State Security Service of Georgia.png",
+  "predecessor": "Giorgi Gakharia",
+  "predecessor1": "Alexsandre Chikaidze",
+  "successor1": "Giorgi Mghebrishvili",
+  "office2": "Chief of the State Security Service of Georgia",
+  "primeminister2": "Irakli Garibashvili Giorgi Kvirikashvili Mamuka Bakhtadze",
+  "predecessor2": "position reestablished",
+  "successor2": "Grigol Liluashvili",
+  "party": "Georgian Dream",
+  "birth_date": "December 24, 1974",
+  "birth_place": "Tbilisi, Georgian SSR, Soviet Union",
+  "term_start2": "July 25, 2015",
+  "term_end2": "September 8, 2019"
 }
