@@ -1,7 +1,7 @@
-@@,itemlabel,item,startdate,enddate
-->,Zurab Zhvania,Q312493,1995-11-25,2001-11-01->1999-11-20
-+++,Zurab Zhvania,Q312493,1999-11-20,2001-11-01
-->,Nino Burjanadze,Q229493,2001-11-09,2008-06-07->2004-04-22
-+++,Nino Burjanadze,Q229493,2004-04-22,2008-06-07
-->,David Bakradze->Davit Bakradze,Q673705,2008-06-07,2012-10-21
-->,Kakha Kuchava->Kakha Kutchava,Q31355070,2021-04-27,2021-12-24
+@@,item,itemlabel,startdate,enddate
+->,Q312493,Zurab Zhvania,1995-11-25,2001-11-01->1999-11-20
++++,Q312493,Zurab Zhvania,1999-11-20,2001-11-01
+->,Q229493,Nino Burjanadze,2001-11-09,2008-06-07->2004-04-22
++++,Q229493,Nino Burjanadze,2004-04-22,2008-06-07
+->,Q673705,David Bakradze->Davit Bakradze,2008-06-07,2012-10-21
+->,Q31355070,Kakha Kuchava->Kakha Kutchava,2021-04-27,2021-12-24
