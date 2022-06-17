@@ -1,5 +1,4 @@
-@@,itemlabel,item,startdate,enddate
----,Otar Patsatsia,Q2920357,1993-08-20,1995-10-05
----,Zurab Zhvania,Q312493,2003-11-27,2004-02-17
-->,Irakli Gharibashvili->Irakli Garibashvili,Q6066533,2013-11-20,2015-12-30
-->,Irakli Gharibashvili->Irakli Garibashvili,Q6066533,2021-02-22,
+@@,item,itemlabel,startdate,enddate
+---,Q312493,Zurab Zhvania,2003-11-27,2004-02-17
+->,Q6066533,Irakli Gharibashvili->Irakli Garibashvili,2013-11-20,2015-12-30
+->,Q6066533,Irakli Gharibashvili->Irakli Garibashvili,2021-02-22,
