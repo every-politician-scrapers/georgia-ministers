@@ -1,7 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-+++,Tamaz Vashadze,,1991-10-02,1992-01-06
-->,Otar Litanishvili,Q97464195->NULL,1992-01-06,1993-01-21
-->,Vano Zodelava->Ivane (Vano) Zodelava,Q24008059,1998-08-10,2004-04-19
-->,Giorgi Ugulava->Giorgi (Gigi) Ugulava,Q969642,2005-07-12,2013-12-22
-->,Sevdia Ugrekhelidze,Q24008070->NULL,2013-12-22,2014-08-02
-->,Davit Narmania->David Narmania,Q17481730,2014-08-02,2017-11-13
+@@,item,itemlabel,startdate,enddate
+->,Q24008059,Vano Zodelava->Ivane (Vano) Zodelava,1998-08-10,2004-04-19
+->,Q969642,Giorgi Ugulava->Giorgi (Gigi) Ugulava,2005-07-12,2013-12-22
+->,Q17481730,Davit Narmania->David Narmania,2014-08-02,2017-11-13
