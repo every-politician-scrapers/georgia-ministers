@@ -8,14 +8,17 @@
       "start": "2021-02-22",
       "parent": "Q2613132"
     },
-    "source": {
-        "url":   "http://old.gov.ge/index.php?lang_id=ENG&sec_id=124",
-        "continued": "http://old.gov.ge/index.php?lang_id=ENG&sec_id=124&mod_id=0&info_id=0&new_year=0&limit=0&date=&new_month=&entrant=2",
-        "title": "Government of Georgia &ndash; Members",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "http://old.gov.ge/index.php?lang_id=ENG&sec_id=124",
+        "P1476": {
+            "text": "Government of Georgia &ndash; Members",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/georgia-ministers"
+    "continued": "http://old.gov.ge/index.php?lang_id=ENG&sec_id=124&mod_id=0&info_id=0&new_year=0&limit=0&date=&new_month=&entrant=2",
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Georgia"
+    }
 }

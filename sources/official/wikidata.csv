@@ -1,15 +1,15 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
-Q104904062,Tea Akhvlediani,Tea Akhvlediani,female,1975-01-10,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q108379621,State Minister of Georgia for Reconciliation and Civic Equality,2020-08-06,Q104904062-68037114-0025-43E2-A6B1-79B6D5E55571
-Q106094877,Juansher Burchuladze,Juansher Burchuladze,male,1978-01-14,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q19967450,Minister of Defence of Georgia,2021-02-22,Q106094877-43DAF736-2F5A-4BAF-B444-07547F2E8349
-Q106522763,Lasha Khutsishvili,Lasha Khutsishvili,male,1985-09-02,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q71971342,Minister of Finance of Georgia,2021-04-01,Q106522763-12E77546-7A9F-4787-9A27-F0B0C1D670B8
-Q106522784,Rati Bregadze,Rati Bregadze,male,1982-12-12,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q94984555,Minister of Justice of Georgia,2021-04-01,Q106522784-32646726-2C9B-4FF8-8B97-B42FFB4E5C02
-Q106522864,Irakli Karseladze,Irakli Karseladze,male,1978-02-28,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q108377572,Minister of Regional Development and Infrastructure of Georgia,2021-02-22,Q106522864-98C213D6-5204-4ECD-9141-22BB68CE083C
-Q110420479,Zurab Azarashvili,Zurab Azarashvili,male,,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2022-01-05,Q108376722,"Minister of Internally Displaced Persons from the Occupied Territories, Labour, Health and Social Affairs of Georgia",2021-12-27,Q110420479-D0A15B8D-645E-42F6-951D-8C09E9C4E5A3
-Q110915463,Otar Shamugia,Otar Shamugia,male,,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2022-02-14,Q110915464,Minister of Environmental Protection and Agriculture of Georgia,2022-02-09,Q110915463-A44D90BD-9A65-4777-85DF-52608F94C0AD
-Q111487495,Ilia Darchiashvili,Ilia Darchiashvili,male,1981-02-21,11,,,Q108368702,Minister of Foreign Affairs of Georgia,2022-04-04,Q111487495-2f8601c5-4dc6-b01d-628d-835efacbc6bb
-Q13589522,Thea Tsulukiani,Tea Tsulukiani,female,1975-01-21,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q109623168,"Minister of Culture, Sports and Youth of Georgia",2021-03-22,Q13589522-258818FF-A864-4EE9-9661-8AB0AED27644
-Q13589522,Thea Tsulukiani,Tea Tsulukiani,female,1975-01-21,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q109623194,Vice Prime Minister,2021-03-22,Q13589522-F0FFE80F-C427-4AC8-97D8-3F5DFE1EE2EC
-Q20557144,Vakhtang Gomelauri,Vakhtang Gomelauri,male,1975-12-24,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q88039626,Minister of Internal Affairs of Georgia,2019-09-08,Q20557144-6c19de48-468b-232e-be37-d0af7a8b9aac
-Q31354638,Levan Davitashvili,Levan Davitashvili,male,1978-12-10,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2022-02-14,Q108370218,Minister of Economy and Sustainable Development of Georgia,2022-02-09,Q31354638-21C75B39-55F9-4EC3-859C-234F2E42EE94
-Q31354638,Levan Davitashvili,Levan Davitashvili,male,1978-12-10,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q109623194,Vice Prime Minister,2017-12-15,Q31354638-CBCAD7DE-8F37-41B1-99FC-227B2BF7D48C
-Q65285987,Mikheil Chkhenkeli,Mikheil Chkhenkeli,male,1968-04-01,11,http://gov.ge/index.php?lang_id=ENG&sec_id=124,2021-11-18,Q108376607,Minister of Education and Science of Georgia,2019-11-13,Q65285987-2CB9BF23-51BF-4685-83C2-AD2DE0D9E8F7
+item,itemLabel,position,positionLabel,startDate,endDate,source,psid
+Q104904062,Tea Akhvlediani,Q108379621,State Minister of Georgia for Reconciliation and Civic Equality,2020-08-06,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q104904062-68037114-0025-43E2-A6B1-79B6D5E55571
+Q106094877,Juansher Burchuladze,Q19967450,Minister of Defence of Georgia,2021-02-22,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q106094877-43DAF736-2F5A-4BAF-B444-07547F2E8349
+Q106522763,Lasha Khutsishvili,Q71971342,Minister of Finance of Georgia,2021-04-01,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q106522763-12E77546-7A9F-4787-9A27-F0B0C1D670B8
+Q106522784,Rati Bregadze,Q94984555,Minister of Justice of Georgia,2021-04-01,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q106522784-32646726-2C9B-4FF8-8B97-B42FFB4E5C02
+Q106522864,Irakli Karseladze,Q108377572,Minister of Regional Development and Infrastructure of Georgia,2021-02-22,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q106522864-98C213D6-5204-4ECD-9141-22BB68CE083C
+Q110420479,Zurab Azarashvili,Q108376722,"Minister of Internally Displaced Persons from the Occupied Territories, Labour, Health and Social Affairs of Georgia",2021-12-27,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q110420479-D0A15B8D-645E-42F6-951D-8C09E9C4E5A3
+Q110915463,Otar Shamugia,Q110915464,Minister of Environmental Protection and Agriculture of Georgia,2022-02-09,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q110915463-A44D90BD-9A65-4777-85DF-52608F94C0AD
+Q111487495,Ilia Darchiashvili,Q108368702,Minister of Foreign Affairs of Georgia,2022-04-04,,,Q111487495-2f8601c5-4dc6-b01d-628d-835efacbc6bb
+Q13589522,Thea Tsulukiani,Q109623168,"Minister of Culture, Sports and Youth of Georgia",2021-03-22,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q13589522-258818FF-A864-4EE9-9661-8AB0AED27644
+Q13589522,Thea Tsulukiani,Q109623194,Vice Prime Minister,2021-03-22,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q13589522-F0FFE80F-C427-4AC8-97D8-3F5DFE1EE2EC
+Q20557144,Vakhtang Gomelauri,Q88039626,Minister of Internal Affairs of Georgia,2019-09-08,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q20557144-6c19de48-468b-232e-be37-d0af7a8b9aac
+Q31354638,Levan Davitashvili,Q108370218,Minister of Economy and Sustainable Development of Georgia,2022-02-09,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q31354638-21C75B39-55F9-4EC3-859C-234F2E42EE94
+Q31354638,Levan Davitashvili,Q109623194,Vice Prime Minister,2017-12-15,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q31354638-CBCAD7DE-8F37-41B1-99FC-227B2BF7D48C
+Q65285987,Mikheil Chkhenkeli,Q108376607,Minister of Education and Science of Georgia,2019-11-13,,http://gov.ge/index.php?lang_id=ENG&sec_id=124,Q65285987-2CB9BF23-51BF-4685-83C2-AD2DE0D9E8F7
