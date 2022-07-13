@@ -43,8 +43,8 @@ class MemberList
   end
 end
 
-file1 = Pathname.new 'html/official.html'
+file1 = Pathname.new 'official.html'
 puts EveryPoliticianScraper::FileData.new(file1).csv
 
-file2 = Pathname.new 'html/official2.html'
+file2 = Pathname.new 'official2.html'
 puts EveryPoliticianScraper::FileData.new(file2).csv.lines.drop(1).join

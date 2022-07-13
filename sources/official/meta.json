@@ -1,0 +1,21 @@
+{
+    "jurisdiction": {
+      "name": "Georgia",
+      "id": "Q230"
+    },
+    "cabinet": {
+      "id": "Q110612600",
+      "start": "2021-02-22",
+      "parent": "Q2613132"
+    },
+    "source": {
+        "url":   "http://gov.ge/index.php?lang_id=ENG&sec_id=124",
+        "continued": "http://gov.ge/index.php?lang_id=ENG&sec_id=124&mod_id=0&info_id=0&new_year=0&limit=0&date=&new_month=&entrant=2",
+        "title": "Government of Georgia &ndash; Members",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/georgia-ministers"
+}
