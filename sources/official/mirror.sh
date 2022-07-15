@@ -9,4 +9,4 @@ then
   curl $CURLOPTS -o official2.html $(jq -r .source.continuation meta.json)
 fi
 
-cd -
+cd ~-
