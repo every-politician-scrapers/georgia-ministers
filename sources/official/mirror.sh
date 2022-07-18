@@ -2,11 +2,11 @@
 
 cd $(dirname $0)
 
-if [[ $(jq -r .source.url meta.json) == http* ]]
+if [[ $(jq -r .reference.P854 meta.json) == http* ]]
 then
   CURLOPTS='-L -c /tmp/cookies -A eps/1.2 --insecure'
-  curl $CURLOPTS -o official.html  $(jq -r .source.url meta.json)
-  curl $CURLOPTS -o official2.html $(jq -r .source.continuation meta.json)
+  curl $CURLOPTS -o official.html  $(jq -r .reference.P854 meta.json)
+  curl $CURLOPTS -o official2.html $(jq -r .continued meta.json)
 fi
 
 cd ~-
