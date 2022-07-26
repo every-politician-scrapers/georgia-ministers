@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Georgia"
+      ],
+      "stated_as": "Member of Parliament of Georgia"
+    },
+    "P580": "2020-12-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Parliament of Georgia"
+      ],
+      "stated_as": "Speaker of the Parliament"
+    },
+    "P580": "2021-12-29",
+    "P1365": {
+      "links": [
+        "Kakha Kuchava"
+      ],
+      "stated_as": "Kakha Kuchava"
+    }
+  }
+]

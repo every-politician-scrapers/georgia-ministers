@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Georgia"
+      ],
+      "stated_as": "Member of the Parliament of Georgia"
+    },
+    "P580": "2016-11-18",
+    "P582": "2017-12-22"
+  },
+  {
+    "office": {
+      "links": [
+        "State Security Service of Georgia"
+      ],
+      "stated_as": "Head of the State Security Service of Georgia"
+    },
+    "P580": "2019-10-17",
+    "P1365": {
+      "links": [
+        "Vakhtang Gomelauri"
+      ],
+      "stated_as": "Vakhtang Gomelauri"
+    }
+  }
+]
