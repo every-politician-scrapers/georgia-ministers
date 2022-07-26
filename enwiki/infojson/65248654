@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Internal Affairs of Georgia"
+      ],
+      "stated_as": "Minister of Internal Affairs of Georgia"
+    },
+    "P580": "2015-01-26",
+    "P1365": {
+      "links": [
+        "Alexsandre Chikaidze"
+      ],
+      "stated_as": "Alexsandre Chikaidze"
+    },
+    "P582": "2015-08-03",
+    "P1366": {
+      "links": [
+        "Giorgi Mghebrishvili"
+      ],
+      "stated_as": "Giorgi Mghebrishvili"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "State Security Service of Georgia"
+      ],
+      "stated_as": "Head of the State Security Service of Georgia"
+    },
+    "P580": "2015-07-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "position reestablished"
+    },
+    "P582": "2019-09-08",
+    "P1366": {
+      "links": [
+        "Grigol Liluashvili"
+      ],
+      "stated_as": "Grigol Liluashvili"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Internal Affairs of Georgia"
+      ],
+      "stated_as": "Minister of Internal Affairs of Georgia"
+    },
+    "P580": "2019-09-08",
+    "P1365": {
+      "links": [
+        "Giorgi Gakharia"
+      ],
+      "stated_as": "Giorgi Gakharia"
+    }
+  }
+]

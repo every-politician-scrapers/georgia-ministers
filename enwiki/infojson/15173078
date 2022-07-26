@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs of Georgia"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2004-03-20",
+    "P1365": {
+      "links": [
+        "Tedo Japaridze"
+      ],
+      "stated_as": "Tedo Japaridze"
+    },
+    "P582": "2005-10-18",
+    "P1366": {
+      "links": [
+        "Gela Bezhuashvili"
+      ],
+      "stated_as": "Gela Bezhuashvili"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "The Way of Georgia"
+      ],
+      "stated_as": "Leader of The Way of Georgia"
+    },
+    "P580": "2006-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Party established"
+    },
+    "P582": "2010-11-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Kakha Seturidze"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of Georgia"
+      ],
+      "stated_as": "Member of the Parliament of Georgia"
+    },
+    "P580": "2016-11-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Zaza Papuashvili"
+    },
+    "P582": "2018-12-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Lado Kakhadze"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Georgia"
+      ],
+      "stated_as": "5th President of Georgia"
+    },
+    "P580": "2018-12-16",
+    "P1365": {
+      "links": [
+        "Giorgi Margvelashvili"
+      ],
+      "stated_as": "Giorgi Margvelashvili"
+    }
+  }
+]
