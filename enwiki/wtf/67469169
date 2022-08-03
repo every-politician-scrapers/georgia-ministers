@@ -1,0 +1,222 @@
+{
+  "title": "Lasha Khutsishvili",
+  "pageID": 67469169,
+  "categories": [
+    "1985 births",
+    "Living people",
+    "Finance ministers of Georgia",
+    "Government ministers of Georgia (country)",
+    "21st-century politicians from Georgia (country)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lasha Khutsishvili (born 2 September 1985 in Tbilisi) is a Georgian politician who has been Minister of Finance of Georgia since 1 April 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tbilisi"
+                },
+                {
+                  "text": "Georgian",
+                  "type": "internal",
+                  "page": "Georgia (country)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lasha Khutsishvili"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2021",
+          "template": "like resume"
+        },
+        {
+          "description": "Georgian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1985",
+          "month": "09",
+          "day": "02",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lasha Khutsishvili"
+          },
+          "native_name": {
+            "text": "ლაშა ხუციშვილი"
+          },
+          "native_name_lang": {
+            "text": "ka",
+            "formatting": {
+              "italic": [
+                "ka"
+              ]
+            }
+          },
+          "image": {
+            "text": "Lasha Khutsishvili (cropped).jpg"
+          },
+          "office1": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance of Georgia"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Irakli Garibashvili",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irakli Garibashvili"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 April 2021"
+          },
+          "predecessor1": {
+            "text": "Ivane Matchavariani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ivane Matchavariani"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 2, 1985"
+          },
+          "birth_place": {
+            "text": "Tbilisi, Georgia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tbilisi"
+              },
+              {
+                "text": "Georgia",
+                "type": "internal",
+                "page": "Georgia (country)"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Georgia"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Minister",
+          "url": "https://www.mof.ge/en/minister_of_finance_of_georgia",
+          "access-date": "2021-04-22",
+          "website": "www.mof.ge",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-04-01",
+          "title": "PM Appoints New Finance, Justice Ministers",
+          "url": "https://civil.ge/archives/409897",
+          "access-date": "2021-04-22",
+          "website": "Civil.ge",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was educated at the European High School of Management-Tbilisi (Bachelor's degree in Business Administration) and Preston University (Bachelor of Arts in General Management).",
+              "links": [
+                {
+                  "text": "Preston University",
+                  "type": "internal",
+                  "page": "Preston University (United States)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "February 2014-April 2021 - Deputy Minister of Finance of Georgia"
+          },
+          {
+            "text": "July 2016-September 2020 - Elected Member of the Steering Group of the OECD/G20 Inclusive Framework on BEPS (Base erosion and profit shifting)"
+          },
+          {
+            "text": "January 2013-February 2014 - Director General, Georgia Revenue Service"
+          },
+          {
+            "text": "January 2008-2013 - Ernst & Young LLC Tbilisi Office, Tax & Legal"
+          },
+          {
+            "text": "2007-2008 - Member, The Council of Tax Resolution, Ministry of Finance of Georgia"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Site of Government of Georgia",
+            "links": [
+              {
+                "text": "Site of Government of Georgia",
+                "type": "external",
+                "site": "http://gov.ge/index.php?lang_id=ENG&sec_id=124&info_id=200"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
